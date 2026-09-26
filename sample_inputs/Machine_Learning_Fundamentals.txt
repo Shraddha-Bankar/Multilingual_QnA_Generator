@@ -1,0 +1,16 @@
+Machine Learning and Modern Artificial Intelligence: Core Principles
+
+1. Introduction to Machine Learning
+Machine Learning (ML) is a branch of artificial intelligence focused on building systems that learn from data, identify patterns, and make decisions with minimal human intervention. Rather than following explicitly programmed rules, ML algorithms optimize mathematical objective functions to generalize from past observations.
+
+2. Paradigms of Learning
+Machine learning methodologies are categorized into three primary paradigms:
+- Supervised Learning: Algorithms learn a mapping function from input features to known target labels using labeled training datasets. Common algorithms include Linear Regression, Support Vector Machines, Random Forests, and Gradient Boosting.
+- Unsupervised Learning: Systems discover hidden structures, groupings, or representations within unlabeled data. Prominent techniques include K-Means Clustering, Principal Component Analysis (PCA), and Autoencoders.
+- Reinforcement Learning: Agents interact with dynamic environments to maximize cumulative numerical rewards through trial-and-error exploration and exploitation, widely applied in robotics, gaming, and autonomous navigation.
+
+3. Deep Learning and Neural Network Architectures
+Deep Learning utilizes deep artificial neural networks inspired by biological neural circuits. Convolutional Neural Networks (CNNs) specialize in grid-like visual data for computer vision. Recurrent Neural Networks (RNNs) and Transformers revolutionize natural language processing through multi-head self-attention mechanisms that capture long-range contextual relationships.
+
+4. Model Evaluation and Generalization
+Evaluating machine learning models requires rigorous validation methodologies to prevent overfitting. Metrics such as Precision, Recall, F1-Score, ROC-AUC, and Mean Squared Error assess model generalization on unseen test distributions. Regularization techniques like Dropout, L1/L2 penalties, and cross-validation safeguard model stability.
